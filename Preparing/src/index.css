@@ -1,0 +1,50 @@
+.subj{
+    width: 100%;
+}
+
+.zagalovok{
+    margin: 1rem;
+}
+
+
+.subjectSelector{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem 0rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.column {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.control{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+  }
+
+  .answer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+.portal{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+    width: 348px;
+}
+
+h1{
+    text-align:center;
+}
