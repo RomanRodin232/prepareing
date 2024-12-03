@@ -6,7 +6,7 @@ export default function SubTask5({ topic, condition, solution, answer }) {
   const [form, setForm] = useState({
     vis: false,
     name: "",
-    hasError: false,
+    hasError: true,
     chAnswer: null,
   });
 
